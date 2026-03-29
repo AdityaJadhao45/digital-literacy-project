@@ -2,7 +2,8 @@
 
 Course: CSE0001 – Digital Literacy  
 Student Name: Aditya Ganesh Jadhao
-Registration Number: 25MIM10035
+Registration Number: 25MIM10034
+
 Institution: VIT Bhopal University
 
 ## Project Overview
