@@ -1,8 +1,8 @@
 # Digital Literacy Project
 
 Course: CSE0001 – Digital Literacy  
-Student Name: Manish Burdak  
-Registration Number: 25BCY10222  
+Student Name: Aditya Ganesh Jadhao
+Registration Number: 25MIM10035
 Institution: VIT Bhopal University
 
 ## Project Overview
